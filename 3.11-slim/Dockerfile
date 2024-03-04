@@ -1,1 +1,1 @@
-FROM python:3.11-slim\r\n
+FROM python:3.11-slim\\r\\n
