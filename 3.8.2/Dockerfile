@@ -1,1 +1,1 @@
-FROM python:3.8.2\r\n
+FROM python:3.8.2\r
